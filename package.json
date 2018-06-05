@@ -1,0 +1,33 @@
+{
+  "name": "questionui",
+  "version": "1.0.0",
+  "description": "ui for game conversation",
+  "main": "index.js",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.18",
+    "angular": "^1.4.9",
+    "angular-router-browserify": "0.0.2",
+    "angular-ui-router": "^1.0.18"
+  },
+  "devDependencies": {
+    "browserify-livereload": "^1.0.10",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ng-annotate": "^2.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDaboTimerman/questionUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidDaboTimerman/questionUI/issues"
+  },
+  "homepage": "https://github.com/DavidDaboTimerman/questionUI#readme"
+}
